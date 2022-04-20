@@ -9,4 +9,4 @@ A programban csak ékezet nélküli karaktereket használjon! Erre az alkalmazá
 ### A dokumentációról
 A kód sajnos nem tartalmaz magyarázó kommenteket. Azonban ezt egy külön DOKUMENTÁCIÓ.pdf fájlal próbáltam pótolni, mely a program fő mappájában található meg.
 ### Technikai információk
-A kód Netbeans-ben GNU/Linux alatt készült, így tesztelve is Linux-on lett, de reméljük bármely OS-en/IDE-ben ugyanúgy fog futni.
+A kód Netbeans-ben GNU/Linux alatt készült, így tesztelve is Linux-on lett, de remélhetőleg bármely OS-en/IDE-ben ugyanúgy fog futni.
