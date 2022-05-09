@@ -6,7 +6,7 @@ Az alkalmazás használata nem igényel túl sok magyarázatot, csak követni ke
 
 A programban csak ékezet nélküli karaktereket használjon! Erre az alkalmazásban is talál felhívást. Ez azért lényeges, mert ezt az egyet nem ellenőrzi a program. Miden egyéb esetekben, ahol szükséges ott van hibakezelés.
 #### Javítás:
-Utólag kiderítettem, hogy valószínűleg helyi technikai hiba állhatott a háttérben. Tehát ékezetes karakterekkel is jól kell, hogy működjön az alkalmazás, viszont ez a tájékoztatás a program felületén és a dokumentációban nincs frissítve.
+Utólag kiderítettem, hogy valószínűleg helyi technikai hiba állhatott a háttérben. Tehát ékezetes karakterekkel is jól kell működjön az alkalmazás, viszont ez a tájékoztatás a program felületén és a dokumentációban nincs frissítve.
 
 ### A dokumentációról
 A kód sajnos nem tartalmaz magyarázó kommenteket. Azonban ezt egy külön DOKUMENTÁCIÓ.pdf fájlal próbáltam pótolni, mely a program fő mappájában található meg.
